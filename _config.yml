@@ -1,0 +1,16 @@
+name: 杭州随创科技有限公司
+markdown: redcarpet
+pygments: true
+
+image:
+  source: assets/images/_fullsize
+  output: generated
+  presets:
+    users:
+      attr:
+    #    class: user-portrait
+    #    itemprop: image
+      #width: 350
+    #half:
+    #  width: 400
+    #  height: 400
